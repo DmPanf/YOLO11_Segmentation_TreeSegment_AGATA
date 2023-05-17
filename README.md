@@ -21,7 +21,7 @@
 - Разделитель в опции --add-data зависит от операционной системы. На Windows используется ;, в то время как на Linux и MacOS используется :.
 
 <p>
-<img src="https://github.com/terrainternship/rostelecom_tree_segmentation/blob/ba96f061b0a5d1cf954556b2ceb42c77bf44b48f/command/Dmitry_Panfilov/images/treesegm.jpg" width="90%">
+<img src="https://github.com/terrainternship/rostelecom_tree_segmentation/blob/ba96f061b0a5d1cf954556b2ceb42c77bf44b48f/command/Dmitry_Panfilov/images/treesegm.jpg" width="97%">
 </p>
 
 ---
