@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  web:
+    build: .
+    image: web-client-fastapi
+    ports:
+      - "8080:80"
+    restart: unless-stopped
